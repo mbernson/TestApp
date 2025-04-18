@@ -13,6 +13,7 @@ jobs:
 
     env:
       scheme: TestApp
+      platform: iOS Simulator
 
     steps:
       - name: Checkout
